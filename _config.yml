@@ -25,9 +25,7 @@ description: Welcome to Tlanesi Trips
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Visit Mexico: "https://www.visitmexico.com/en"
   Tours: 
     - Tours eng: "tours"
     - Tours esp: "tours_esp"

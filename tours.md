@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tours
-subtitle: The places thata are waiting for you in Mexico
+subtitle: The places that are waiting for you in Mexico
 ---
 
 ## Frida Kahlo's museum

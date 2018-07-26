@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Tlanesi trips
+subtitle: Who are we?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+From bussiness trips to familiar vacations we are expert tourist guides ready to introduce you to the wonders of Mexico.
+We are specialized tourist guides devoted to make the most of your visit to Mexico. Please feel free to contact us for any further information that you may need.

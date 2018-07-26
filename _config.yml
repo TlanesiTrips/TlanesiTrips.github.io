@@ -43,7 +43,7 @@ avatar: "/img/tlanesi_logo.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0011FF"
+navbar-col: "#111BB2"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#FFCA00"
 page-col: "#FFFFFF"

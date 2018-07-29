@@ -12,3 +12,5 @@ bigimg:
 ## Pyramids tour
 
 Visit Teotihuacan’s ceremonial with its magnificient pyramids, its mural paintings and sculpture. In this tour it is posible to stop by the Basilica de Guadalupe.
+
+Miu

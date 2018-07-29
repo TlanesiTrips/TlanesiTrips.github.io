@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tours
+title: Pyramids tour
 subtitle: The places that are waiting for you in Mexico
 use-site-title: true
 css: "/css/index.css"

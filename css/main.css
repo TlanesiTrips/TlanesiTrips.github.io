@@ -456,7 +456,7 @@ footer .theme-by {
    position: relative;
   display: inline-block;
 }
-intro-header.big-img.blur:before {
+.intro-header.big-img.blur:before {
   content: '';
   background-color: #000;
   opacity: 0.5;

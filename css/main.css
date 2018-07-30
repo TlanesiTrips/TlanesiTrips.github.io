@@ -466,6 +466,10 @@ footer .theme-by {
   -moz-transition: opacity 1s linear;
   transition: opacity 1s linear;
 }
+.intro-header.big-img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 .intro-header .page-heading {
   text-align: center;
 }

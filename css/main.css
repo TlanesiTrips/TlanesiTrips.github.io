@@ -446,6 +446,7 @@ footer .theme-by {
 }
 .intro-header.big-img {
   background: no-repeat center center;
+  background-color: #00000094;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -468,9 +469,6 @@ footer .theme-by {
   transition: opacity 1s linear;
   background-color: #00000094;
 }
-.intro-header.big-img {
-    background-color: #00000094;
-}
 .intro-header .page-heading {
   text-align: center;
 }
@@ -479,6 +477,7 @@ footer .theme-by {
   padding: 100px 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
+  background-color: #00000094;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
@@ -517,7 +516,7 @@ footer .theme-by {
   position: absolute;
   padding: 5px 10px;
   font-size: 11px;
-  color: #EEE;
+  color: #00000094;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
@@ -547,7 +546,7 @@ footer .theme-by {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background-color: #FCFCFC;
+  background-color: #00000094;
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
@@ -563,6 +562,7 @@ footer .theme-by {
   .intro-header.big-img {
     width: 100%;
     height: 220px;
+    background-color: #00000094;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {

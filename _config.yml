@@ -26,7 +26,6 @@ navbar-links:
   About Us: "aboutme"
   Tours:
     - Tours eng: "tours"
-    - Pyramids: "piramides"
     - Tours esp: "tours_esp"
   Contact: "contact"
   Resources:

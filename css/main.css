@@ -442,6 +442,7 @@ footer .theme-by {
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
+  background-color: #00000094;
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -467,7 +468,10 @@ footer .theme-by {
   transition: opacity 1s linear;
 }
 .intro-header.big-img {
-    background-color: #00000094
+    background-color: #00000094;
+}
+.intro-header.big-img.container {
+    background-color: #00000094;
 }
 .intro-header .page-heading {
   text-align: center;

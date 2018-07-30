@@ -19,24 +19,15 @@ bigimg:
 ---
 
 
-Hello,
-
+## Hello,
 We will be pleased to be your guides in your adventure through Mexico city.
-
 We are looking forward to knowing about you.
 
-
-
-Alejandro Pantoja Castro
-
+**Alejandro Pantoja Castro**
 +52 1 55 29051311
-
 alexpantojac@yahoo.com.mx
 
 
-
-Félix Acevedo Ramírez
-
+**Félix Acevedo Ramírez**
 +52 1 55 18424458
-
 acevedoramirezfelix@gmail.com

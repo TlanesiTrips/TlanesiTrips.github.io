@@ -466,11 +466,9 @@ footer .theme-by {
   -webkit-transition: opacity 1s linear;
   -moz-transition: opacity 1s linear;
   transition: opacity 1s linear;
+  background-color: #00000094;
 }
 .intro-header.big-img {
-    background-color: #00000094;
-}
-.intro-header.big-img.container {
     background-color: #00000094;
 }
 .intro-header .page-heading {
